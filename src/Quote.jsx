@@ -1,4 +1,4 @@
-function Quote({ quote, author, onNewQuote }) {
+function Quote({ quote, author, onNewQuote}) {
   return (
    
     <div style={{ backgroundColor: '#0a0a0f' }}
